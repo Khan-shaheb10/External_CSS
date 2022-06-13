@@ -1,0 +1,47 @@
+h2 {
+    color:  #212f3d ;
+    font-size: 50px;
+    font-family:'Times New Roman';
+    text-align: right;
+}
+
+h2 span {
+    font-size: 70px;
+    font-style: italic;
+    color:  #7b7d7d;
+}
+
+p {
+    font-size: 25px;
+    font-family: Verdana;
+    line-height: 35px;
+}
+
+P #span_one {
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    font-style: oblique;
+    color:#102e25;
+}
+
+p #span_two {
+    color: #553655;
+    font-size: 40px;
+
+}
+
+p #span_three {
+    color: #5f0000;
+    font-weight: bolder;
+}
+
+a {
+    text-decoration: none;
+    color: #dd2929;
+    background-color: #a2da34;
+    width: 180px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    display: inline-block;
+}
